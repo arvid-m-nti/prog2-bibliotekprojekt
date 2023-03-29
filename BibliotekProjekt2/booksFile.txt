@@ -1,0 +1,10 @@
+The Great Gatsby,F. Scott Fitzgerald,1925,Tragedi,9781840227956,False
+Ulysses,James Joyce,1922,Modernist,9789100146238,True
+Moby-Dick,Herman Melville,1851,Äventyr,9780141199603,True
+War and Peace,Leo Tolstoy,1869,Historia,9789174619249,True
+Hamlet,William Shakespeare,1603,Tragedi,9789178931163,True
+Lolita,Vladimir Nabokov,1955,Romantik,9780141182537,True
+Wuthering Heights,Emily Brontë,1847,Tragedi,9789174993974,False
+Romeo och Julia,William Shakespeare,1597,Tragedi,9789176451991,False
+Othello,William Shakespeare,1604,Tragedi,9781853260186,True
+Macbeth,William Shakespeare,1623,Tragedi,9789170370120,True
